@@ -1,3 +1,11 @@
+# Screenshots
+
+![](img/carrito-inicio.png)
+
+![](img/carrito-tienda.png)
+
+![](img/carrito-array.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
