@@ -2,9 +2,10 @@
 
 ![](img/carrito-inicio.png)
 
+![](img/carrito-blog.png)
+
 ![](img/carrito-tienda.png)
 
-![](img/carrito-array.png)
 
 # Getting Started with Create React App
 
